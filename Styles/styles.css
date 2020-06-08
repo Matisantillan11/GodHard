@@ -243,12 +243,12 @@ footer{
     }
     .menu{
        position:fixed;
-   }
-   .map{
+    }
+    .map{
        float:center;
        width:300px;
         height:300px;
-   }
+    }
    .us{
     display:flex;
     justify-content: space-evenly;
@@ -294,7 +294,7 @@ footer{
         color:black;
     }
     .header{
-        height:80vh;
+        height:60vh;
         background-image: linear-gradient(120deg, rgba(161, 196, 253, 0.5) 0%, rgba(194, 233, 251, 0.5) 100%), url(../img/men-repairing.jpg);
         background-repeat:no-repeat;
         background-size:cover;
@@ -304,12 +304,12 @@ footer{
     }
     .menu{
        position:fixed;
-   }
+    }
    .map{
        float:center;
        width:300px;
         height:300px;
-   }
+    }
    .us{
     display:flex;
     justify-content: space-evenly;
